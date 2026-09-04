@@ -46,7 +46,7 @@ Activate the virtual environment:
 source .venv/bin/activate
 
 # For windows
-venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
 Install the requirements:
